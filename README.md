@@ -81,3 +81,20 @@ SecurityGab
 - [Twitter](https://twitter.com/PNaturlo)
 - [Github](https://github.com/securitygab)
 - securitygab@nasa.gov (Hijacked in 2015) Still using this e-mail an having it.
+
+##Constributor
+
+Gábor Vecsei
+
+- [Personal Blog](https://gaborvecsei.wordpress.com/)
+- [LinkedIn](https://www.linkedin.com/in/gaborvecsei)
+- [Twitter](https://twitter.com/GAwesomeBE)
+- [Github](https://github.com/gaborvecsei)
+- vecseigabor.x@gmail.com
+
+We created this project earlier but never finished everything. 
+Since that Gábor is busy with private life and not doing anything on Github I'm open to update our home-security.
+Soon more available options! We created already a GITHUB with this project but Gábor asked me to put it on my own GITHUB. 
+
+This project is created at scrashed. 0 - 100 <
+Bugs found? Pull a request.
