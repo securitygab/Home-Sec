@@ -1,0 +1,39 @@
+/* All rights going to Securitygab
+Do not claim the rights!
+
+- Admin panel with MySQl connecction an MongoDB an postreSQL*/ 
+
+
+.form-style-6 {
+    font: 95% Arial, Helvetica, sans-serif;
+    max-width: 400px;
+    margin: 10px auto;
+    padding: 16px;
+    background: #ECF0F1;
+    color: #2C3E50;
+}
+
+.form-style-6 h1 {
+    background: #E74C3C;
+    padding: 20px 0;
+    font-size: 140%;
+    font-weight: 300;
+    text-align: center;
+    color: #fff;
+    margin: -16px -16px 16px -16px;
+}
+
+a:active, a:hover, a:visited, a:link {
+    box-sizing: border-box;
+    text-decoration: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 100%;
+    padding: 3%;
+    background: #E74C3C;
+    border-bottom: 4px solid #A74C3E;
+    border-top-style: none;
+    border-right-style: none;
+    border-left-style: none;
+    color: #fff;
+}
