@@ -80,7 +80,7 @@ SecurityGab
 - [LinkedIn](https://www.linkedin.com/in/dengisan)
 - [Twitter](https://twitter.com/PNaturlo)
 - [Github](https://github.com/securitygab)
-- securitygab@nasa.gov (Hijacked in 2015) Still using this e-mail an having it.
+- securitygab@nasa.gov (Hijacked in 2015) Still using this e-mail and having it.
 
 ##Constributor
 
