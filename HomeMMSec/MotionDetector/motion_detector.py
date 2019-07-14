@@ -64,6 +64,7 @@ class MotionDetector(object):
                 is_detected = True
                 contour = largest_contour
                 self.prevImage = blurred
+		self.prevImage = color_green
         return is_detected, contour
 
     def change_min_detection_area(self, min_area):
