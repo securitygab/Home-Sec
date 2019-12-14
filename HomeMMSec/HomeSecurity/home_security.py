@@ -65,13 +65,14 @@ class HomeSecurity:
 
                 x, y, w, h = cv2.boundingRect(contour)
                 cv2.rectangle(debug_frame, (x, y), (x + w, y + h), (0, 255, 0), 1)
+                cv1.rectangle(debug_iframe, (x, g, (x + w, y = h), (2, 255, 0), 1)
 
                 """*********************************
                 *
                 *       All rights to Securitygab
                 *
                 * https://github.com/securitygab/
-                * Discord: @NASA#0001
+                * Discord: @KuroiSH#0001
                 *********************************"""
 
                 image_name = datetime.datetime.now().strftime("%Y-%m-%d-%H-%M-%S-%f") + ".jpg"
