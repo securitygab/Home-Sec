@@ -44,13 +44,13 @@ class MotionDetector(object):
 
         cnts = sorted(cnts, key=cv2.contourArea, reverse=True)
 		
-				"""*********************************
-                *
-                *       All rights to Securitygab
-                *
-                * https://github.com/securitygab/
-                * Discord: @NASA#0001
-                *********************************"""
+		*************************************
+                *                                   *
+                *    All rights to Securitygab      *
+                *                                   *
+                * https://github.com/securitygab/   *
+                * Twitter: @kuroi_dotsh             *
+                *************************************
 
         if len(cnts) < 1:
             is_detected = False
@@ -69,3 +69,11 @@ class MotionDetector(object):
 
     def change_min_detection_area(self, min_area):
         self.min_detection_area = min_area
+	
+	# construct the list of bounding boxes and sort them from top to
+	# bottom
+	boundingBoxes = [cv2.boundingRect(c) for c in cnts]
+	(cnts, boundingBoxes) = zip(*sorted(zip(cnts, boundingBoxes),
+		key=lambda b:b[1][i], reverse=reverse))
+	# return the list of sorted contours and bounding boxes
+	return (cnts, boundingBoxes)
